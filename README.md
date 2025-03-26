@@ -21,4 +21,4 @@ __
    - For each experiemnt, the predicted peaks were converted into bed files using a custom R script then subsequently converted into a bigWig file.
 2. Creating prediction regions
    - For every gene, a prediction region was generated using the modERN datasets predicted primary target. If a peak existed for that gene, then that prediction region was used. Otherweise, 1000 bp upstream of the target gene was used.
-3. cisTarget databases were then generated for the chip-seq based data using create_cistarget_track_databases.py
+3. cisTarget databases were then generated for the chip-seq based data using code available at https://github.com/livinlrg/C.elegans_C.briggsae_Embryo_Single_Cell
