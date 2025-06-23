@@ -3,7 +3,7 @@
 Using motif information from cis-bp (https://cisbp.ccbr.utoronto.ca/), and chip-seq data from the modERN project (https://epic.gs.washington.edu/modERNresource/), cisTarget databses were created to predict gene regulatory networks using SCENIC (https://scenic.aertslab.org/). Here, those databases are freely available to run gene regulatory network prediction on your own single cell data from either C. elegans or C. briggsae. As more databases are created for additional species, they will be added here.
 
 If you use these databases, please cite this publication:
-__
+__[C. Large, R. Khanal, L. Hillier, C. Huynh, C. Kubo, J. Kim, R. Waterston, J. Murray, Lineage-resolved analysis of embryonic gene expression evolution in _C. elegans_ and _C. briggsae_. _Science_ **388**, adu8249 (2025).](https://www.science.org/doi/10.1126/science.adu8249)__
 
 ### Motif database creation
 1. Curation of the motif databases
